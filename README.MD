@@ -2,11 +2,11 @@
 
 # Episode -4  Talk is cheap , show me the code  🚀
 
-# parcel 🤩
+# parcel ❤️
 
-# Babel 😘
+# Babel ❤️
 
-# Flow of jsx 🤣
+# Flow of js ❤️
  
  # JSX is "HERO 🕺"
 
